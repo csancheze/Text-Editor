@@ -18,7 +18,7 @@ This text-editor is a simple and functional single-page PWA application that is 
   ## Installation
   
   
-Click the install button in the webpage at https://dry-tundra-05028.herokuapp.com/
+Click the install button in the [webpage](https://dry-tundra-05028.herokuapp.com/)
 
   
   ## Usage
@@ -28,7 +28,7 @@ Just write your text and unfocus to save (click anywhere else for example). Open
 
   
   
-![Jet Another Text Editor webpage working as expected](assets/images/screenshot.png)
+![Jet Another Text Editor webpage working as expected](assets/screenshot.png)
   
   ## License
   
